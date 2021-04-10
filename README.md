@@ -1,6 +1,8 @@
 ## Blender Style Camera Controller for Three.js
 
 
+#[Demo](https://blender-camera-controller.web.app)
+
 # Theory
 
 Started with Orbit Camera controller and was really unhappy with how the left click was used in the "Drag and Rotate" manner. 
@@ -15,6 +17,18 @@ P.S. - Don't have an external mouse! The controls are strictly laptop's trackpad
 Pinch = Zoom
 2 finger scroll = rotate
 Left Shift + 2 finger scroll = Pan
+
+
+## TODO 
+    * Continuous Longitudinal Movements!!! => Actually do justice to the name
+    * Mouse support
+    * Touch controls
+    * Object click to focus
+    * Macbook juicy trackpad gestures
+    * Fully Customizable 
+    * Orthographic/Perspective Switch
+    * Multiple Camera Switching
+    
 
 ## Dependencies (apart from three.js)
 
