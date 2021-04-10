@@ -1,8 +1,8 @@
-## Blender Style Camera Controller for Three.js
+# Blender Style Camera Controller for Three.js
 
-# [Demo](https://blender-camera-controller.web.app)
+## [Demo](https://blender-camera-controller.web.app)
 
-# Theory
+## Theory
 
 Started with Orbit Camera controller and was really unhappy with how the left click was used in the "Drag and Rotate" manner.
 Coming from the Blender world, I tried to recreate the mouse controls.
@@ -11,7 +11,7 @@ Heavily inspired by Orbit Controls.
 
 P.S. - Don't have an external mouse! The controls are strictly laptop's trackpad based!
 
-# Controls
+## Controls
 
     *Pinch = Zoom
     *2 finger scroll = rotate
@@ -31,9 +31,9 @@ P.S. - Don't have an external mouse! The controls are strictly laptop's trackpad
 
 ## Dependencies (apart from three.js)
 
-    *@react-three/fiber - [Link](https://github.com/pmndrs/react-three-fiber) - Well written three.js wrapper for react!
+### @react-three/fiber - [Link](https://github.com/pmndrs/react-three-fiber) - Well written three.js wrapper for react!
 
-    *@react-three/drei - [Link](https://github.com/pmndrs/drei) - great helper classes for react-three-fiber. Will grow stronger with time!
+### @react-three/drei - [Link](https://github.com/pmndrs/drei) - great helper classes for react-three-fiber. Will grow stronger with time!
 
 ## Available Scripts
 
